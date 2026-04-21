@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|c:\\users\\admin\\source\\repos\\carsellerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|c:\\users\\admin\\source\\repos\\carsellerapi\\carsellerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|solutionrelative:carsellerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|c:\\users\\admin\\source\\repos\\carsellerapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F830C8-7AA5-4463-BFDE-02A0A2E17EC1}|CarSellerApi.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarSellerApi.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\CarSellerApi.http",
+              "RelativeDocumentMoniker": "CarSellerApi.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\CarSellerApi.http",
+              "RelativeToolTip": "CarSellerApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-21T16:44:39.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:37:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarSellerApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:33:56.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
